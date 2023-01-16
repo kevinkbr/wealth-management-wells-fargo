@@ -1,3 +1,5 @@
+-- Code writter by Kevin Kabore co author Mohamed Lyazid Skalli Chérif, Shravanthi Ashwin Kumar, Siriphan Mongpho
+
 USE invest;
 
 
